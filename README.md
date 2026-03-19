@@ -2,10 +2,10 @@
 
 #  Peeratut Waritum
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C8FF&center=true&vCenter=true&width=500&lines=Computer+Science+Student+%F0%9F%8E%93;Full-Stack+Developer+%F0%9F%92%BB;IoT+%26+Embedded+Systems+%F0%9F%94%A7;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C8FF&center=true&vCenter=true&width=500&lines=Computer+Science+Student;Full-Stack+Developer;Software+Engineer;Always+Learning" alt="Typing SVG" />
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=kittiphongkubkub&label=Profile+Views&color=00c8ff&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=jayasianboyd&label=Profile+Views&color=00c8ff&style=for-the-badge" />
   <img src="https://img.shields.io/badge/University-Huachiew%20Chalermprakiet-blue?style=for-the-badge&logo=graduation-cap" />
   <img src="https://img.shields.io/badge/Year-3rd-purple?style=for-the-badge" />
 </p>
