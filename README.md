@@ -14,41 +14,25 @@
 
 ---
 
-##  About Me
+## 👨‍💻 About Me
 
 > *"Organized, systematic, and always troubleshooting until it works."*
 
--  **3rd-Year CS Student** @ Huachiew Chalermprakiet University — Faculty of Science and Technology
--  Passionate about **Full-Stack Development** & **IoT Integration**
--  I approach software like a game: **Analyze → Optimize → Improve**
--  Currently preparing for **TOEIC** to unlock global opportunities
--  Tech Stack: `JavaScript` · `React` · `Node.js` · `Python` · `Arduino`
+- 🎓 **Education:** 3rd-Year CS Student @ Huachiew Chalermprakiet University (Faculty of Science and Technology)
+- 💻 **Focus:** Passionate about Full-Stack Development & IoT Integration
+- 🎯 **Philosophy:** I approach software like a game: Analyze → Optimize → Improve
+- 🌍 **Current Goal:** Preparing for TOEIC to unlock global opportunities
+- 🛠️ **Core Stack:** `JavaScript` · `React` · `Node.js` · `Python` · `Arduino`
 
 ---
 
-##  Featured Projects
+## 🚀 Featured Projects
 
-###  Equipment Borrow-Return-Reserve System
-> Web application for managing university equipment
-
--  Built with **PHP · HTML · CSS · MySQL**
--  Features: User authentication, search, borrow/return workflows, notification system
--  Designed full database schema & data management flow
-
----
-
-###  Library Face Scanner
-> Smart attendance system using facial recognition
-
--  Powered by **ESP32 + Python + HTML/CSS**
--  Features: Real-time face scanning, time check-in/out, student verification, statistics dashboard
--  Integrated with the university's student database
-
----
-
-###  Workshop Instructor: LAN Cable Crimping
--  Instructed **100–200 attendees** on network cable standards
--  Covered: cable stripping, T568A/T568B color codes, crimping tools, signal testing
+| 🏆 Project | 📝 Description & Features | 🛠️ Tech Stack & Role |
+| :--- | :--- | :--- |
+| **Equipment Reserve System** | Web app for managing university equipment. Features user auth, search, borrow/return workflows, and notifications. | **PHP, HTML/CSS, MySQL**<br>→ *Designed full database schema* |
+| **Library Face Scanner** | Smart attendance system using facial recognition. Features real-time scanning, time check-in/out, and stats dashboard. | **ESP32, Python, HTML/CSS**<br>→ *Integrated with student DB* |
+| **LAN Cable Crimping Workshop** | Instructed 100–200 attendees on network cable standards, cable stripping, T568A/T568B codes, and signal testing. | **Networking / Hardware**<br>→ *Main Instructor* |
 
 ---
 
@@ -108,12 +92,13 @@
 
 ---
 
-##  GitHub Stats
+## 📈 GitHub Stats
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jayasianboyd&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jayasianboyd&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jayasianboyd&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=jayasianboyd&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jayasianboyd&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
