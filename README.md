@@ -13,10 +13,10 @@
 <a href="https://jayasianboyd.github.io/portfolio">
   <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20My%20Site-00C8FF?style=for-the-badge" />
 </a>
-<a href="https://drive.google.com/file/d/1oEPDgfhkI0TqEvojY5FznnUVb_APq06o/view?usp=sharing">
+<a href="https://drive.google.com/file/d/11fI5zFODt8a8a92fLXihwMrTcFJVIuiu/view?usp=sharing">
   <img src="https://img.shields.io/badge/📄%20Resume%20(ENG)-View%20My%20Resume-FF4B4B?style=for-the-badge" />
 </a>
-<a href="https://drive.google.com/file/d/1M0SrBlVaJEJ2IIk-QK4a5Iy38XHThfFW/view?usp=sharing">
+<a href="https://drive.google.com/file/d/1Ywj23Mo1_WlVy1_bXqzU5Kd2wvzTFqI5/view?usp=sharing">
   <img src="https://img.shields.io/badge/📄%20Resume%20(TH)-View%20My%20Resume-FF4B4B?style=for-the-badge" />
 </a>
 
