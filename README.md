@@ -13,6 +13,12 @@
 <a href="https://jayasianboyd.github.io/portfolio">
   <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20My%20Site-00C8FF?style=for-the-badge" />
 </a>
+<a href="https://drive.google.com/file/d/1oEPDgfhkI0TqEvojY5FznnUVb_APq06o/view?usp=sharing">
+  <img src="https://img.shields.io/badge/📄%20Resume%20(ENG)-View%20My%20Resume-FF4B4B?style=for-the-badge" />
+</a>
+<a href="https://drive.google.com/file/d/1M0SrBlVaJEJ2IIk-QK4a5Iy38XHThfFW/view?usp=sharing">
+  <img src="https://img.shields.io/badge/📄%20Resume%20(TH)-View%20My%20Resume-FF4B4B?style=for-the-badge" />
+</a>
 
 </div>
 
@@ -32,13 +38,13 @@
 
 ## 🚀 Featured Projects
 
-> 🌐 See all projects with full details on my **[Portfolio Website](https://jayasianboyd.github.io/portfolio/projects.html)**
-
 | 🏆 Project | 📝 Description & Features | 🛠️ Tech Stack & Role |
 | :--- | :--- | :--- |
-| [**Equipment Reserve System**](https://github.com/jayasianboyd/Equipment-Reserve-System) | Web app for managing university equipment. Features user auth, search, borrow/return workflows, and notifications. | **PHP, HTML/CSS, MySQL**<br>→ *Designed full database schema* |
-| [**Library Face Scanner**](https://github.com/jayasianboyd/Library-Face-Scanner) | Smart attendance system using facial recognition. Features real-time scanning, time check-in/out, and stats dashboard. | **ESP32, Python, HTML/CSS**<br>→ *Integrated with student DB* |
-| [**LAN Cable Crimping Workshop**](https://jayasianboyd.github.io/portfolio/activities.html) | Instructed 100–200 attendees on network cable standards, cable stripping, T568A/T568B codes, and signal testing. | **Networking / Hardware**<br>→ *Main Instructor* |
+| **Equipment Reserve System** | Web app for managing university equipment. Features user auth, search, borrow/return workflows, and notifications. | **PHP, HTML/CSS, MySQL**<br>→ *Designed full database schema* |
+| [**Library Face Scanner**](https://github.com/jayasianboyd/Library-Face-Recognition) | Smart attendance system using facial recognition. Features real-time scanning, time check-in/out, and stats dashboard. | **ESP32, Python, HTML/CSS**<br>→ *Integrated with student DB* |
+| [**Parking System**](https://github.com/jayasianboyd/parking_system1) | Web-based parking management system with slot tracking and user management. | **PHP, HTML/CSS**<br>→ *Full-stack Developer* |
+| [**Dooduang**](https://github.com/jayasianboyd/Dooduang) | Web application project. | **JavaScript, HTML/CSS**<br>→ *Developer* |
+| [**15 Puzzle**](https://github.com/jayasianboyd/15-puzzle) | Classic sliding puzzle game implementation in the browser. | **JavaScript**<br>→ *Developer* |
 
 ---
 
@@ -115,6 +121,12 @@
 <p align="center">
   <a href="https://jayasianboyd.github.io/portfolio">
     <img src="https://img.shields.io/badge/🌐%20Portfolio-jayasianboyd-00C8FF?style=for-the-badge" />
+  </a>
+  <a href="https://drive.google.com/file/d/1oEPDgfhkI0TqEvojY5FznnUVb_APq06o/view?usp=sharing">
+    <img src="https://img.shields.io/badge/📄%20Resume%20(ENG)-View%20My%20Resume-FF4B4B?style=for-the-badge" />
+  </a>
+  <a href="https://drive.google.com/file/d/1M0SrBlVaJEJ2IIk-QK4a5Iy38XHThfFW/view?usp=sharing">
+    <img src="https://img.shields.io/badge/📄%20Resume%20(TH)-View%20My%20Resume-FF4B4B?style=for-the-badge" />
   </a>
   <a href="https://github.com/jayasianboyd">
     <img src="https://img.shields.io/badge/GitHub-jayasianboyd-181717?style=for-the-badge&logo=github" />
