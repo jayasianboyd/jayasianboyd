@@ -40,7 +40,7 @@
 
 | 🏆 Project | 📝 Description & Features | 🛠️ Tech Stack & Role |
 | :--- | :--- | :--- |
-| **Equipment Reserve System** | Web app for managing university equipment. Features user auth, search, borrow/return workflows, and notifications. | **PHP, HTML/CSS, MySQL**<br>→ *Designed full database schema* |
+| [**Equipment Reserve System**](https://github.com/jayasianboyd/Equipment-Reserve-System)| Web app for managing university equipment. Features user auth, search, borrow/return workflows, and notifications. | **PHP, HTML/CSS, MySQL**<br>→ *Designed full database schema* |
 | [**Library Face Scanner**](https://github.com/jayasianboyd/Library-Face-Recognition) | Smart attendance system using facial recognition. Features real-time scanning, time check-in/out, and stats dashboard. | **ESP32, Python, HTML/CSS**<br>→ *Integrated with student DB* |
 | [**Parking System**](https://github.com/jayasianboyd/parking_system1) | Web-based parking management system with slot tracking and user management. | **PHP, HTML/CSS**<br>→ *Full-stack Developer* |
 | [**Dooduang**](https://github.com/jayasianboyd/Dooduang) | Web application project. | **JavaScript, HTML/CSS**<br>→ *Developer* |
